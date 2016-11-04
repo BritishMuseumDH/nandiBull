@@ -1,6 +1,8 @@
 Photogrammetric model of the Nandi Bull, British Museum
 =======================================================
 
+[![DOI](https://zenodo.org/badge/58571168.svg)](https://zenodo.org/badge/latestdoi/58571168)
+
 The Nandi Bull
 ==============
 
